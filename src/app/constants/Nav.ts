@@ -1,0 +1,1 @@
+export const Nav = ['features', 'pricing','testimonials','contact']
