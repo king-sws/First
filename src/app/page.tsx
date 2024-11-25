@@ -40,7 +40,7 @@ const page = () => {
                 </Link>       
               </div>
             </div>
-            <Image src="/img/hero-image.svg" width={670} height={370} alt='H' className='mx-auto shadow-xl' />
+            <Image src="/img/Hero-image.svg" width={670} height={370} alt='Hero image' className='mx-auto shadow-xl' />
           </div>
         </section>
         {/* Home Section */}
